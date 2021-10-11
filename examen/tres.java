@@ -2,7 +2,7 @@
    
 import java.util.Scanner;
 public class TipodeVacuna {
-    static void algoritmocavunaCRMC(){ 
+    static void algoritmoVacunaCRMC(){ 
         Scanner in = new Scanner(System.in);
         int edad, sexo;
         System.out.print("Ingresa su edad actual: ");
@@ -26,6 +26,6 @@ public class TipodeVacuna {
             System.out.println("Le corresponde la vacuna de tipo C");
     }
       public static void main(String[] args) {
-      algoritmocavunaCRMC();
+      algoritmoVacunaCRMC();
 }
 }   
