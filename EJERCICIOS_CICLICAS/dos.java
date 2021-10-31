@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_4_2 {
+public class dos{
   static Scanner sc = new Scanner(System.in);
 
   static void hamburguesas() {

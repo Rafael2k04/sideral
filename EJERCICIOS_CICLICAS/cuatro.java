@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_4_4 {
+public class cuatro{
   static Scanner sc = new Scanner(System.in);
 
   static void focos() {

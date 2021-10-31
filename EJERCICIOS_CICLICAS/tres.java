@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_4_3 {
+public class tres{
   static Scanner sc = new Scanner(System.in);
 
   static void nCantidad(){

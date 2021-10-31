@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio_4_5 {
+public class cinco{
   static Scanner sc = new Scanner(System.in);
 
   static void ahorroPesos() {
