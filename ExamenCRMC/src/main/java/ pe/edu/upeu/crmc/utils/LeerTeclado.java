@@ -41,7 +41,7 @@ public class LeerTeclado {
     
     public char leer(char valor, String msg) {
         System.out.println(msg);
-        try {//Cristian Zavaleta
+        try {//Christian Mamani
             valor=br.readLine().charAt(0);
         } catch (Exception e) {
             valor=leer(valor,msg);
