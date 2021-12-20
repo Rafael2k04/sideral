@@ -1,0 +1,2 @@
+Camotito	2004	ADMINISTRADOR
+0	 c:; cd 'c:\Users\CHRIS\Downloads\DESARROLLO\sideral\ProyectoBodegaLuchito'; & 'C:\Program Files\Java\jdk-11.0.11\bin\java.exe' '@C:\Users\CHRIS\AppData\Local\Temp\cp_3ceatd0rxfffbk27lomw05kq5.argfile' 'pe.edu.upeu.app.App' 	31

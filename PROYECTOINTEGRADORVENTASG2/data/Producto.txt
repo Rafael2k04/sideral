@@ -1,0 +1,48 @@
+P1	inka kola	C1	2.5	20	unidad
+P2	coca cola	C1	1.0	20	unidad
+P3	Kr	C1	2.0	20	unidad
+P4	Inka kola 3lt.	C1	8.0	10	unidad
+P5	Oro 3lt.	C1	5.5	10	unidad
+P6	Fanta 3lt.	C1	6.0	5	unidad
+P7	Sprite 3lt.	C1	6.0	5	unidad
+P8	Coca cola 3lt.	Coca cola 3lt.	8.0	10	unidad
+P9	Pepsi 3lt.	C1	6.5	5	unidad
+P10	Guarana 3lt.	C1	5.5	5	unidad
+P11	Issac cola 3lt.	C1	4.5	5	unidad
+P12	Kola escocesa 3lt.	C1	9.0	5	unidad
+P13	San Mateo 1lt	C2	3.0	10	unidad
+P14	San Luis 1lt.	C2	2.0	10	unidad
+P15	Cielo 1lt.	C2	2.0	10	unidad
+P16	Gatorade 500ml.	C3	2.0	5	unidad
+P17	Sporade 500ml.	C3	1.5	5	unidad
+P18	Power 500ml.	C3	2.5	5	unidad
+P19	Reb Bull	C3	7.0	5	unidad
+P20	Yogurt Gloria	C4	6.0	5	unidad
+P21	Yogurt Mikito	C4	4.0	5	unidad
+P22	Yogurt Pura Vida	C4	5.0	5	unidad
+P23	Yogurt Laive	C4	5.0	5	unidad
+P24	Leche tarro	C4	3.0	20	unidad
+P25	Huevo	C5	0.5	60	unidad
+P26	Azucar	C5	3.5	50	kilo
+P27	Mantequilla	C5	1.5	10	unidad
+P28	Arroz	C5	3.5	50	kilo
+P29	Fideos	C5	2.0	50	kilo
+P30	Aceite 1lt.	C5	5.0	5	unidad
+P31	Atun	C5	2.5	10	unidad
+P32	Ajinomen	C5	1.0	10	unifaf
+P33	Salsa Pomarola	C5	2.0	5	unidad
+P34	Tentacion	C6	0.5	6	0.5
+P35	Glasitas	C6	0.6	6	unidad
+P36	Vainilla	C6	0.5	6	unidad
+P37	Charada	C6	0.6	6	unidad
+P38	Chomp	C6	0.5	6	unidad
+P39	Casino	C6	0.6	6	unidad
+P40	Soda V	C6	0.5	6	unidad
+P41	Morocha	C6	0.6	6	unidad
+P42	Soda	C6	0.5	6	unidad
+P43	Choco Soda	C6	0.7	6	unidad
+P44	Vino Borgo¤a	C7	35.0	5	unidad
+P45	Cerbeza Cristal	C7	5.0	45	unidad
+P46	Ron Cartavio	C7	30.0	5	unidad
+P47	Pisco	C7	50.0	5	unidad
+P48	Cristal	C7	6.0	40	unidad

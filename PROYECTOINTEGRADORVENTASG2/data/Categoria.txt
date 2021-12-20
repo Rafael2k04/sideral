@@ -1,0 +1,7 @@
+C1	Gaseosa
+C2	Agua Mineral
+C3	Bebidad Energeticas
+C4	Lacteos
+C5	Alimentos
+C6	Galletas
+C7	Licores
